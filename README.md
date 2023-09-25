@@ -30,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-###
-
 <div align="left">
   <a href="https://instagram.com/rafaaaug?igshid=MzMyNGUyNmU2YQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -41,11 +39,10 @@
   </a>
 </div>
 
-###
 <ul>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaaaugg&show_icons=true&locale=en&layout=compact" alt="rafaaaugg" /></p>
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaaaugg&show_icons=true&locale=en" alt="rafaaaugg" /></p>
 </ul>
-###
+
 <br clear="both">
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
