@@ -42,3 +42,8 @@
 </div>
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaaaugg&show_icons=true&locale=en&layout=compact" alt="rafaaaugg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaaaugg&show_icons=true&locale=en" alt="rafaaaugg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaaaugg&" alt="rafaaaugg" /></p>
