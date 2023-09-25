@@ -47,3 +47,5 @@
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rafaaaugg&show_icons=true&locale=en" alt="rafaaaugg" /></p>
 </ul>
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
